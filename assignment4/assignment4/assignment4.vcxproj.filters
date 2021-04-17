@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="assignment4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="continuebutton.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="endbutton.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="exit.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="greendot.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="j.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="mix.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="prison.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="reddot.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="stair.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="startbutton.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="explain.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="startscene.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="pad.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="scene4.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="door1.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="key.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="room.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="bearopen.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="bearclose.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="safeclose.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="safeopen.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dooropen.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="doorclose.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="clock.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="hint_board.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="hintpaper.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="hintpaper_small.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="keypad.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ship.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="beach.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="person.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="over.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="end.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="net.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="trap.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ocean.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="sail.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="miniship.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="wreck.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="fin.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ending.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="swirl.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="shark.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="rock.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="mountain.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="answer.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="quiz1back.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="quiz1.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="goback.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="quiz2.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="run.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+﻿  assignment4.cpp
+C:\Users\Go jun seop\source\repos\assignment4\assignment4\assignment4.cpp(221,31): warning C4244: '인수': 'double'에서 'Second'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Go jun seop\source\repos\assignment4\assignment4\assignment4.cpp(305,18): warning C4244: '인수': 'double'에서 'Second'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Go jun seop\source\repos\assignment4\assignment4\assignment4.cpp(399,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  assignment4.vcxproj -> C:\Users\Go jun seop\source\repos\assignment4\Debug\assignment4.exe
